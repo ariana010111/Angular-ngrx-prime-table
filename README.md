@@ -1,4 +1,4 @@
-angular-ngrx-table
+# angular-ngrx-table
 Angular NGRX table using the Prime NG framework Get the user data from this URL https://dummyjson.com/users. Create a simple table with the following fields:
 
      firstName, lastName, age, gender, email, phone, eyeColor, and birthdate.
